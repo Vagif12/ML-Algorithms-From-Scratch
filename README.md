@@ -1,2 +1,9 @@
 # ML-Algorithms-From-Scratch
-All the code from my series  "Machine Learning Algorithms from Start to Finish in Python"
+
+This repo contains all the code from my series  "Machine Learning Algorithms from Start to Finish in Python"
+In this series I go through a detailed process of how an ML algorithm works, and how to implement it from scratch in Python
+
+## Links:
+
+- [Machine Learning Algorithms from Start to Finish in Python:KNN](https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-knn-7a92cce47986
+)
