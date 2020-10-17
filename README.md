@@ -5,5 +5,7 @@ In this series I go through a detailed process of how an ML algorithm works, and
 
 ## Links:
 
-- [Machine Learning Algorithms from Start to Finish in Python:KNN](https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-knn-7a92cce47986
+KNN - [Machine Learning Algorithms from Start to Finish in Python: KNN](https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-knn-7a92cce47986
 )
+
+Linear Regression - [Machine Learning Algorithms from Start to Finish in Python: Linear Regression](https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-linear-regression-aa8c1d6b1169?)
