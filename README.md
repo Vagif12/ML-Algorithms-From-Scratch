@@ -9,3 +9,5 @@ KNN - [Machine Learning Algorithms from Start to Finish in Python: KNN](https://
 )
 
 Linear Regression - [Machine Learning Algorithms from Start to Finish in Python: Linear Regression](https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-linear-regression-aa8c1d6b1169?)
+
+Logistic Regression - [Machine Learning Algorithms from Start to Finish in Python: Logistic Regression](https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-logistic-regression-5a62e3495318)
